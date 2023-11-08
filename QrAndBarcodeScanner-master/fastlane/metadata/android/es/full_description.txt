@@ -42,5 +42,4 @@ Códigos de barras y códigos 2D:
 • Codabar
 • ITF
 
-Código fuente:
-https://github.com/wewewe718/QrAndBarcodeScanner
+
